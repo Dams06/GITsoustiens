@@ -1,2 +1,2 @@
-from lib import Dab()
-    Dad()
+from lib import Dab
+Dad()
